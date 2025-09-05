@@ -1,5 +1,5 @@
-# ✨ Barra de Pesquisa Interativa 🔎
-Este projeto demonstra como criar uma barra de pesquisa responsiva e interativa usando uma combinação de HTML e CSS. A principal funcionalidade é a animação que faz a barra se expandir ao ser clicada, oferecendo uma experiência de usuário moderna e fluida.
+# ✨ Barra de Pesquisa  🔎
+Este projeto demonstra como criar uma barra de pesquisa usando uma combinação de HTML e CSS. 
 
 ## 💻 Tecnologias Utilizadas
 O projeto foi desenvolvido inteiramente com as seguintes tecnologias:
